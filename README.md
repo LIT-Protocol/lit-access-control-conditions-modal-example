@@ -4,4 +4,4 @@ This project is a minimal example showing how to use the [Lit Access Control Con
 
 ## Usage
 
-Run `yarn install` to install the dependencies. Run `yarn start` to start a dev server and test this in a browser.
+Run `yarn install` to install the dependencies. Run `yarn start` to start a dev server and test this in a browser. Click the "Show modal" button to view the modal. Your chosen access control conditions will be displayed on the webpage after you've selected them.
